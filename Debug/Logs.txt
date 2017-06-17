@@ -1,0 +1,19 @@
+
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 3 : Sending all Messages Succeeded
+Batch 0 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch 6 : Sending all Messages Succeeded
+Batch ProcessedBatch ProcessedBatch ProcessedBatch ProcessedBatch ProcessedBatch ProcessedBatch ProcessedBatch ProcessedBatch Processed

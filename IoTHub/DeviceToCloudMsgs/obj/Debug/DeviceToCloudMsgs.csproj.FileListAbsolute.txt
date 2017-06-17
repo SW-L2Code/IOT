@@ -1,0 +1,8 @@
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\bin\Debug\DeviceToCloudMsgs.exe.config
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\bin\Debug\DeviceToCloudMsgs.exe
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\bin\Debug\DeviceToCloudMsgs.pdb
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\bin\Debug\Microsoft.ServiceBus.dll
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\bin\Debug\Microsoft.ServiceBus.xml
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\obj\Debug\DeviceToCloudMsgs.csprojResolveAssemblyReference.cache
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\obj\Debug\DeviceToCloudMsgs.exe
+D:\Mappathon\IoTHub\DeviceToCloudMsgs\obj\Debug\DeviceToCloudMsgs.pdb
